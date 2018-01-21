@@ -12,6 +12,6 @@ def display_board(board)
 
 "
 end
-board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
+board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
 
 display_board(board)
