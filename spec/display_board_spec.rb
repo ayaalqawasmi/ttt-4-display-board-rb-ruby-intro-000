@@ -193,10 +193,9 @@ describe "#display_board in 'lib/display_board.rb" do
          expect(output_array[2]).to include("   |   |   ")
          expect(output_array[3]).to include("-----------")
          expect(output_array[4]).to include("   |   |   ")
-      
+
       expect(true).to be(true)
     end
   end
 end
 end
-
